@@ -7,3 +7,6 @@
 # 5.Learnt about SciPy and MatPlotLib
 # 6.Started Tasks on Colab
 # 7.Completed Day 1 Tasks
+# Day 2:-
+# 1.Learnt about Pandas and MatPlotLib
+# 2.
