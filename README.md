@@ -6,4 +6,4 @@
 # 4.Learnt Basics of Numpy
 # 5.Learnt about SciPy and MatPlotLib
 # 6.Started Tasks on Colab
-# 7.Completed Task 1A
+# 7.Completed Day 1 Tasks
