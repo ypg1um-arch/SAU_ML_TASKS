@@ -14,3 +14,5 @@
 # 1.Learnt about linear regression and its relevance in ML
 # 2.Completed Tasks of the day
 # Day 4:-
+# 1.Learnt about neural networks and PyTorch
+# 2.Completed Tasks of the day
