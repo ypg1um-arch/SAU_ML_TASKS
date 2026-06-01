@@ -12,3 +12,5 @@
 # 2.Completed Tasks of the day
 # Day 3:-
 # 1.Learnt about linear regression and its relevance in ML
+# 2.Completed Tasks of the day
+# Day 4:-
