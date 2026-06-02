@@ -16,3 +16,6 @@
 # Day 4:-
 # 1.Learnt about neural networks and PyTorch
 # 2.Completed Tasks of the day
+# Day 5,6,7:-
+# Completed Tasks of the day
+# Note:- If .ipynb files are not opening on GitHub, open the raw file to view code and output[temporary fix]
